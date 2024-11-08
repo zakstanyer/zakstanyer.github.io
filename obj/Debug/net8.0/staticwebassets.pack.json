@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameBlog.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameBlog.Frontend.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\zakst\\ASP.Net Projects\\GameBlog\\GameBlog.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameBlog.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameBlog.Frontend.props",
+      "PackagePath": "build\\GameBlog.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameBlog.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\GameBlog.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameBlog.Frontend.props",
+      "PackagePath": "buildTransitive\\GameBlog.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
